@@ -1,0 +1,84 @@
+.navbar-form{
+    margin-left: 4%;
+}
+
+.navbar-form .form-control {
+	width: 460px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: transparent;
+}
+
+.navbar-brand {
+	font-size: 25px;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	color: white;
+}
+
+.btn-default{
+	color:white;
+	background-color: transparent;
+}
+
+.navbar-default{
+	background-color: black;
+	margin: 0;
+	padding:0;
+}
+
+header{
+	background-image: url(../img/vacation1.jpg);
+	background-size: cover;
+	height:92vh;
+	text-align: center;
+	color: white;
+}
+
+.header-text {
+	font-size: 68px;
+	font-style: italic;
+	font-weight: bolder;
+	font-family: 'Great Vibes', cursive;
+	padding-top: 300;
+}
+
+.entire-header {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
+}
+h3{
+	padding-left: 160 
+}
+
+.tagline {
+	font-size: 30px;
+	font-weight:bold;
+	text-align: center;
+	font-family: inherit;
+}
+
+.destination-img {
+
+	width: 100%;
+}
+
+.img-size{
+	width: 100%;
+}
+
+.test{
+	margin-bottom: 20px;
+}
+
